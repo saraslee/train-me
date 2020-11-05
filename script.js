@@ -109,7 +109,7 @@ closeBtn.addEventListener("click", () =>
 // Change voice
 voicesSelect.addEventListener("change", setVoice);
 
-// Read text button
+// Read the text 
 readBtn.addEventListener("click", () => {
   setTextMessage(textarea.value);
   speakText();
