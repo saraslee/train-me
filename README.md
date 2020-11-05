@@ -1,5 +1,5 @@
 # train me
-Created a pet communication app prototype inspired by dog training buttons.   Hoping to deploy this on iPAD and tablets.  
+Created a pet communication app prototype inspired by dog training buttons.   Hoping to deploy this on ipad and tablets.  
 View prototype at https://saraslee.github.io/train-me/
 
 # current features
