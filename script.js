@@ -22,7 +22,7 @@ const data = [
     text: "nap",
   },
   {
-    text: "outside",
+    text: "go outside",
   },
   {
     text: "pet me",
